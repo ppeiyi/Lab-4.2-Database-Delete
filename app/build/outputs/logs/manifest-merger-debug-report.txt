@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ae19771e5ca11b5176de0ef3bb480334\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51d09b9124bf836a2bb8bc8171bbd61\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4fe6841ba2accdb8ea4cfcd16841ec54\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5c03b6445145d18162bed316a48651f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3259b1ef7c998554f4c477b92abb2c54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\befc2b033b16d954afc3daa0947e7d73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9cfdcd328ca49293de862120bd2f399e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\50bfa0a0fb48469267ee4a1d5ae3d6f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9ef5aa0d28d257a907d57c49ff5c59b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec1e87cc3d05185be7dc307754c5a8bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cc27a4f97d3ccfb2ab0d20da658493d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c18d22ad713f4ee25115181e09dde911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49a596f189f7c5b216dd714a2b5b67cb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\6a11c15d05379ef6a5e6cd24cda24050\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f7d6a6b1c884761b443294b978967018\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\393d95861f473eb30b535ec75a4ea40c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c55b0159a6b69307ae4c6e63d93bed0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\182a0c1ab08e93ef745b688db33f1fa5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\785a697439f6c0198c76572a58b1372a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\aaeced8d5aec09c9791fc5d6c861c159\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:1-25:12
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.edu.tarc.lab42database.MainActivity
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:12:9-21:32
+	android:label
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.edu.tarc.lab42database.InsertActivity
+ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ae19771e5ca11b5176de0ef3bb480334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ae19771e5ca11b5176de0ef3bb480334\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51d09b9124bf836a2bb8bc8171bbd61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a51d09b9124bf836a2bb8bc8171bbd61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\199267f54950a9bc34bee87298ecd5e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4fe6841ba2accdb8ea4cfcd16841ec54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4fe6841ba2accdb8ea4cfcd16841ec54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5c03b6445145d18162bed316a48651f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5c03b6445145d18162bed316a48651f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3259b1ef7c998554f4c477b92abb2c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\3259b1ef7c998554f4c477b92abb2c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\befc2b033b16d954afc3daa0947e7d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\befc2b033b16d954afc3daa0947e7d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9cfdcd328ca49293de862120bd2f399e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9cfdcd328ca49293de862120bd2f399e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\50bfa0a0fb48469267ee4a1d5ae3d6f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\50bfa0a0fb48469267ee4a1d5ae3d6f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9ef5aa0d28d257a907d57c49ff5c59b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\9ef5aa0d28d257a907d57c49ff5c59b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec1e87cc3d05185be7dc307754c5a8bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec1e87cc3d05185be7dc307754c5a8bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cc27a4f97d3ccfb2ab0d20da658493d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\1cc27a4f97d3ccfb2ab0d20da658493d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c18d22ad713f4ee25115181e09dde911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c18d22ad713f4ee25115181e09dde911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49a596f189f7c5b216dd714a2b5b67cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\49a596f189f7c5b216dd714a2b5b67cb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\6a11c15d05379ef6a5e6cd24cda24050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\6a11c15d05379ef6a5e6cd24cda24050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f7d6a6b1c884761b443294b978967018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f7d6a6b1c884761b443294b978967018\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\393d95861f473eb30b535ec75a4ea40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\393d95861f473eb30b535ec75a4ea40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c55b0159a6b69307ae4c6e63d93bed0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c55b0159a6b69307ae4c6e63d93bed0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\182a0c1ab08e93ef745b688db33f1fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\182a0c1ab08e93ef745b688db33f1fa5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\785a697439f6c0198c76572a58b1372a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\785a697439f6c0198c76572a58b1372a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\aaeced8d5aec09c9791fc5d6c861c159\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\aaeced8d5aec09c9791fc5d6c861c159\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\taruc\Documents\Lab42Database2\Lab-4.2-Database\app\src\main\AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\f46050b162dfa0babd48e0f3c98847d2\AndroidManifest.xml:24:13-83

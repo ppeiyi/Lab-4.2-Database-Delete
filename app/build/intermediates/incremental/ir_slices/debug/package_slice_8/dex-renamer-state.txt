@@ -1,0 +1,4 @@
+#Thu Dec 27 16:26:25 SGT 2018
+base.0=C\:\\Users\\taruc\\Documents\\Lab42Database2\\Lab-4.2-Database\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
